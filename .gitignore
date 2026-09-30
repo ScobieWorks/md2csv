@@ -1,0 +1,21 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go workspace
+/bin
+/pkg
+
+# Test binaries
+*_test
+
+# Build artifacts
+*.out
+
+# IDE files
+.vscode/
+.idea/
+.orion.json
